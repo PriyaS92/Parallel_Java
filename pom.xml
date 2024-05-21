@@ -3,4 +3,7 @@
   <groupId>Parallel_Java</groupId>
   <artifactId>Parallel_Java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  	<cucumber.version>7.0.0</cucumber.version>
+  </properties>
 </project>
